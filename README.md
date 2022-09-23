@@ -1,5 +1,5 @@
-#it's sunny 
+# it's sunny 
 
-##my favortie color 
+## my favortie color 
 
 it is black
